@@ -91,3 +91,4 @@ while opcao != 5:
 
     if opcao == 5:
         print('voce saiu da lista, volte sempre')
+print('GRUPO 1')
